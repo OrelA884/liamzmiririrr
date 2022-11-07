@@ -1,0 +1,104 @@
+@import url('https://cdnjs.cloudflare.com/ajax/libs/font-awesome/6.2.0/css/all.min.css');
+:root
+body {
+    background: gray;
+    margin: auto 0;
+}
+
+.flex1 {
+    font-size: 14px;
+    border: outset 4px black;
+    bottom: unset;
+    text-align: center;
+    background-color: rgb(238, 238, 238);
+    padding: auto;
+}
+label{
+font-size: 20px;
+font-family: sans-serif;
+color: rgb(22, 3, 3);
+padding: 8px;
+display: flex;
+}
+label:hover
+{
+    transform: scale(1.05);
+}
+.btnbtn {
+    font-size: 18px;
+    right: 80px;
+    width: 180px;
+    padding: 8px;
+    text-decoration: none;
+    margin: 0 auto;
+    }
+.h6
+{
+    background-color: gold;
+    width: 180px;
+    display: flex;
+    margin: 0 auto;
+    padding: 8px;
+    border: outset red 5px;
+}
+.d
+{
+    text-align: center;
+    color: blanchedalmond;
+    padding: 8px;
+}
+.a12
+{
+    text-decoration: none;
+    font-size: 16px;
+    font-weight: 500;
+    padding: 12px 35px;
+    color: white;
+    border-radius: 40px;
+    display: inline-block;
+    white-space: nowrap;
+    border: none;
+    background: red;
+    transition: all 0.3s ease;
+}
+.idk
+{
+    font-size: 20px;
+    text-align: center;
+    border: outset 4px rgb(255, 0, 0);
+    background-color: beige;
+    margin: 0 auto;
+}
+.eered
+{
+    padding: auto;
+    padding: 8px;
+    width: 50px;
+    color: rgb(253, 0, 0);
+}
+.eeblue
+{
+    padding: auto;
+    padding: 8px;
+    width: 50px;
+    color: rgb(35, 69, 221);
+}
+.eegreen
+{
+    padding: auto;
+    padding: 8px;
+    width: 50px;
+    color: rgb(18, 211, 66);
+}
+.a2
+{
+background-color: antiquewhite;
+}
+.a12:hover
+{
+transform: scale(1.05);
+}
+.orez
+{
+    padding: 9px;
+}
